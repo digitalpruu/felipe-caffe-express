@@ -40,10 +40,10 @@
     .logo{
         transition: transform 0.3s ease;
         padding: 0;
-        padding-right: 10px;
     }
     .logo img {
         height: 90px;
+        border-radius: 50%;
         transition: transform 0.3s ease;
     }
     .logo:hover {

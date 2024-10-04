@@ -1,20 +1,21 @@
-const title = "Cositas Lindas";
-const slogan = "Accesorios que cuentan tu historia.";
-const email = "zandram786@gmail.com";
+const title = "Felipe Caffe Expréss";
+const slogan = "El mejor caffe con la mejor calidad";
+const email = "yoneber1@hotmail.com";
 const mensajeWhatsApp = encodeURIComponent(
-    `¡Hola! Estoy interesado en los accesorios de ${title} y me gustaría obtener más información. ¡Gracias!`
+    `¡Hola! Estoy interesado en las bebidas y comestibles de ${title}, y me gustaría obtener más información. ¡Gracias!`
 );
-const numeroWhatsApp = "3916908339";
+const numeroWhatsApp = "3125976348";
 
 const textos = {
     index: {
         title: `${title}`,
+        slogan: `${slogan}`,
     },
     homeContent: {
         title: `${title}`,
     },
     about: {
-        description1: "Cositas Lindas es tu destino ideal para encontrar accesorios únicos que añaden un toque especial a cada ocasión. Desde elegantes manillas y anillos hasta encantadoras cadenas y aretes, nuestra colección está diseñada para satisfacer todos tus deseos de estilo. Nos enorgullecemos de ofrecer piezas que no solo embellecen, sino que también son un excelente detalle para regalar a alguien especial o para consentirte a ti misma. En Cositas Lindas, creemos que cada accesorio cuenta una historia y estamos aquí para ayudarte a contar la tuya con cada joya que elijas."
+        description1: "En Felipe Caffe Expréss nos especializamos en ofrecer bebidas calientes como café, café con leche, aromática, leche, avena, chocolisto, chocolate, maizena y deliciosos comestibles como arepas, almojábanas y tortas de diferentes sabores. Cada producto está preparado con amor y dedicación, buscando brindar una experiencia de felicidad en cada bocado. Ofrecemos entregas puerta a puerta para mayor comodidad, y también contratos con empresas, cooperativas y colegios, con crédito abierto de hasta 2 meses. Nos enfocamos en proporcionar un servicio de calidad que garantice la satisfacción del cliente y lo haga querer volver."
     },
     contact: {
         whatsappLink: `https://wa.me/${numeroWhatsApp}?text=${mensajeWhatsApp}`,
@@ -25,10 +26,10 @@ const textos = {
             p1: "",
             p2: slogan,
         },
-        address: "",
+        address: email,
         phone: numeroWhatsApp,
         email: email,
-        facebook: "https://www.facebook.com/",
+        facebook: "https://www.facebook.com/profile.php?id=61565305692997&mibextid=ZbWKwL",
         instagram: "https://www.instagram.com/",
         whatsappLink: `https://wa.me/${numeroWhatsApp}?text=${mensajeWhatsApp}`,
     },

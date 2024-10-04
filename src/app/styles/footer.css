@@ -58,6 +58,7 @@
 
 .logo-footer img{
     height: 130px;
+    border-radius: 50%;
 }
 .logo-footer {
     transition: transform 0.3s ease, filter 300ms
