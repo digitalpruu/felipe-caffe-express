@@ -9,6 +9,7 @@
       <change beforePath="$PROJECT_DIR$/public/assets/aboutBanner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/aboutBanner.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/assets/mainImage.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/mainImage.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/styles/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/styles/footer.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/styles/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/styles/header.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/texts/texts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/texts/texts.js" afterDir="false" />
@@ -106,7 +107,7 @@
       <workItem from="1727827063756" duration="1161000" />
       <workItem from="1727913215838" duration="1413000" />
       <workItem from="1727921867245" duration="7000" />
-      <workItem from="1728022924682" duration="714000" />
+      <workItem from="1728022924682" duration="1601000" />
     </task>
     <task id="LOCAL-00001" summary="Funcional pero sin adjuntar archivos">
       <option name="closed" value="true" />
